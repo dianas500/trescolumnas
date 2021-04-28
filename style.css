@@ -1,0 +1,27 @@
+    .attribution { 
+    	font-size: 11px; text-align: center;
+    	 }
+    .attribution a { 
+    	color: hsl(228, 45%, 44%);
+    	 }
+
+    body{
+    	border-color: white;
+    }
+    h2{
+    	font-family: 'Aclonica';font-size: 22px;
+
+    }
+    p{
+    	font-family: 'Acme';font-size: 22px;
+    }
+    
+    nav{
+    	background-color: goldenrod; 
+    }
+     section{
+     	background-color: darkblue;
+     }
+     aside{
+     	background-color: green;
+     }
